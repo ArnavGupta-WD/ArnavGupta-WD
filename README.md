@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ArnavGupta-WD/ArnavGupta-WD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://i.pinimg.com/originals/d8/6f/3a/d86f3ab8192f5589eca93cd7725ad8e4.gif" alt="Coding GIF" width="400px"  />
 
-Here are some ideas to get you started:
+# 👋 Hi, I’m Arnav Gupta 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Sr. Associate Information Systems Software Application Engineer** @ **BT GTM Services**  
+
+`Salesforce` · `SnapLogic` · `JavaScript` · `React.js` · `Next.js` · `React Native`
+
+---
+<a href="mailto:your.email@example.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=fff"/>
+</a>
+<a href="https://github.com/your-github" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
